@@ -1,12 +1,9 @@
-Thanks for your interest in this position with Gordian Software's API Integration team.
-
-The next step in the interview process is to complete the exercise below. This is a practical challenge similar to real problems you would solve as part of this team.
-
+## Description
 Seatmap Availability Exercise:
 
 Our goal is to parse seatmap information from XML files and create a JSON format that our customers can parse so that they can display any airline seatmap by integrating our format.
 
-Desired behavior: 
+Desired behavior:
 
 Input: python seatmap_parser.py [FILENAME]
 
@@ -20,8 +17,6 @@ Write a python script that parses the XML seatmap files included in this folder 
 	- Cabin class
 	- Availability
 
-Feel free to include any other properties in your JSON format that you think are relevant.
-
-Please avoid the use of xml to json libraries/tools such as xmltodict, objectify and the like.
-
-
+## Technologies used
+> Python
+> Python Element Tree module
