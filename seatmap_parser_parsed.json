@@ -1,0 +1,1863 @@
+{
+    "1": [
+        {
+            "availability": "false",
+            "cabin-class": "First",
+            "seat-id": "1A",
+            "seat-price": "",
+            "seat-type": ""
+        },
+        {
+            "availability": "false",
+            "cabin-class": "First",
+            "seat-id": "1B",
+            "seat-price": "",
+            "seat-type": ""
+        },
+        {
+            "availability": "false",
+            "cabin-class": "First",
+            "seat-id": "1E",
+            "seat-price": "",
+            "seat-type": ""
+        },
+        {
+            "availability": "false",
+            "cabin-class": "First",
+            "seat-id": "1F",
+            "seat-price": "",
+            "seat-type": ""
+        }
+    ],
+    "10": [
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "10A",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                "SEAT_IN_A_QUIET_ZONE",
+                "WINDOW",
+                "AVAILABLE",
+                "WING"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "10B",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "AVAILABLE",
+                "WING"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "10C",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "WING"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "10D",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "WING"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "10E",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "WING"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "10F",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "WING"
+            ]
+        }
+    ],
+    "11": [
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "11A",
+            "seat-price": "",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "RESTRICTED_RECLINE_SEAT",
+                "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                "RESTRICTED_SEAT_GENERAL",
+                "RESTRICTED",
+                "WING"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "11B",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "RESTRICTED_RECLINE_SEAT",
+                "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                "RESTRICTED_SEAT_GENERAL",
+                "RESTRICTED",
+                "WING"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "11C",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "RESTRICTED_RECLINE_SEAT",
+                "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                "RESTRICTED_SEAT_GENERAL",
+                "RESTRICTED",
+                "WING"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "11D",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "RESTRICTED_RECLINE_SEAT",
+                "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                "RESTRICTED_SEAT_GENERAL",
+                "RESTRICTED",
+                "WING"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "11E",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "RESTRICTED_RECLINE_SEAT",
+                "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                "RESTRICTED_SEAT_GENERAL",
+                "RESTRICTED",
+                "WING"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "11F",
+            "seat-price": "",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "RESTRICTED_RECLINE_SEAT",
+                "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                "RESTRICTED_SEAT_GENERAL",
+                "RESTRICTED",
+                "WING"
+            ]
+        }
+    ],
+    "12": [
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "12A",
+            "seat-price": "",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "RESTRICTED_RECLINE_SEAT",
+                "WING",
+                "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                "EXIT",
+                "LEG_SPACE_SEAT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "12B",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "RESTRICTED_RECLINE_SEAT",
+                "WING",
+                "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                "EXIT",
+                "LEG_SPACE_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "12C",
+            "seat-price": "4200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "RESTRICTED_RECLINE_SEAT",
+                "WING",
+                "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                "EXIT",
+                "LEG_SPACE_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "12D",
+            "seat-price": "4200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "RESTRICTED_RECLINE_SEAT",
+                "WING",
+                "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                "EXIT",
+                "LEG_SPACE_SEAT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "12E",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "RESTRICTED_RECLINE_SEAT",
+                "WING",
+                "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                "EXIT",
+                "LEG_SPACE_SEAT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "12F",
+            "seat-price": "",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "RESTRICTED_RECLINE_SEAT",
+                "WING",
+                "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                "EXIT",
+                "LEG_SPACE_SEAT"
+            ]
+        }
+    ],
+    "14": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "14A",
+            "seat-price": "2700 USD",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "WING"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "14B",
+            "seat-price": "2600 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "WING",
+                "PREFERENTIAL_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "14C",
+            "seat-price": "4200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "WING"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "14D",
+            "seat-price": "4200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "WING"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "14E",
+            "seat-price": "2600 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "WING",
+                "PREFERENTIAL_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "14F",
+            "seat-price": "2700 USD",
+            "seat-type": [
+                "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "WING"
+            ]
+        }
+    ],
+    "15": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "15A",
+            "seat-price": "2700 USD",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "WING"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "15B",
+            "seat-price": "2600 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "WING",
+                "PREFERENTIAL_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "15C",
+            "seat-price": "4200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "WING"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "15D",
+            "seat-price": "4200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "WING"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "15E",
+            "seat-price": "2600 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "WING",
+                "PREFERENTIAL_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "15F",
+            "seat-price": "2700 USD",
+            "seat-type": [
+                "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                "WINDOW",
+                "AVAILABLE",
+                "WING"
+            ]
+        }
+    ],
+    "2": [
+        {
+            "availability": "false",
+            "cabin-class": "First",
+            "seat-id": "2A",
+            "seat-price": "",
+            "seat-type": ""
+        },
+        {
+            "availability": "false",
+            "cabin-class": "First",
+            "seat-id": "2B",
+            "seat-price": "",
+            "seat-type": ""
+        },
+        {
+            "availability": "false",
+            "cabin-class": "First",
+            "seat-id": "2E",
+            "seat-price": "",
+            "seat-type": ""
+        },
+        {
+            "availability": "false",
+            "cabin-class": "First",
+            "seat-id": "2F",
+            "seat-price": "",
+            "seat-type": ""
+        }
+    ],
+    "20": [
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "20A",
+            "seat-price": "",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "20B",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "PREFERENTIAL_SEAT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "20C",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "20D",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "20E",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "PREFERENTIAL_SEAT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "20F",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                "WINDOW",
+                "AVAILABLE"
+            ]
+        }
+    ],
+    "21": [
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "21A",
+            "seat-price": "",
+            "seat-type": [
+                "WINDOW",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "OCCUPIED"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "21B",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "PREFERENTIAL_SEAT",
+                "OCCUPIED"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "21C",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "21D",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "21E",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "PREFERENTIAL_SEAT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "21F",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                "WINDOW",
+                "AVAILABLE"
+            ]
+        }
+    ],
+    "22": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "22A",
+            "seat-price": "2700 USD",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "22B",
+            "seat-price": "1200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "PREFERENTIAL_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "22C",
+            "seat-price": "4200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "22D",
+            "seat-price": "4200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "22E",
+            "seat-price": "1200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "PREFERENTIAL_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "22F",
+            "seat-price": "2700 USD",
+            "seat-type": [
+                "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                "WINDOW",
+                "AVAILABLE"
+            ]
+        }
+    ],
+    "23": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "23A",
+            "seat-price": "2700 USD",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "23B",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "PREFERENTIAL_SEAT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "23C",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "23D",
+            "seat-price": "4200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "23E",
+            "seat-price": "1200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "PREFERENTIAL_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "23F",
+            "seat-price": "2700 USD",
+            "seat-type": [
+                "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                "WINDOW",
+                "AVAILABLE"
+            ]
+        }
+    ],
+    "24": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "24A",
+            "seat-price": "2700 USD",
+            "seat-type": [
+                "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                "WINDOW",
+                "AVAILABLE"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "24B",
+            "seat-price": "1200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "PREFERENTIAL_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "24C",
+            "seat-price": "4200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "24D",
+            "seat-price": "4200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "24E",
+            "seat-price": "1200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "PREFERENTIAL_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "24F",
+            "seat-price": "2700 USD",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        }
+    ],
+    "25": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "25A",
+            "seat-price": "2700 USD",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+                "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "25B",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "PREFERENTIAL_SEAT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "25C",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "25D",
+            "seat-price": "4200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "25E",
+            "seat-price": "1200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "PREFERENTIAL_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "25F",
+            "seat-price": "2700 USD",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+                "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+            ]
+        }
+    ],
+    "26": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "26A",
+            "seat-price": "2700 USD",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "RESTRICTED_SEAT_GENERAL",
+                "RESTRICTED",
+                "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "26B",
+            "seat-price": "1200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "RESTRICTED_SEAT_GENERAL",
+                "RESTRICTED",
+                "PREFERENTIAL_SEAT",
+                "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "26C",
+            "seat-price": "4200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "RESTRICTED_SEAT_GENERAL",
+                "RESTRICTED",
+                "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "26D",
+            "seat-price": "4200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "RESTRICTED_SEAT_GENERAL",
+                "RESTRICTED",
+                "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "26E",
+            "seat-price": "1200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "RESTRICTED_SEAT_GENERAL",
+                "RESTRICTED",
+                "PREFERENTIAL_SEAT",
+                "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "26F",
+            "seat-price": "2700 USD",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "RESTRICTED_SEAT_GENERAL",
+                "RESTRICTED",
+                "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+            ]
+        }
+    ],
+    "27": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "27A",
+            "seat-price": "1300 USD",
+            "seat-type": [
+                "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                "WINDOW",
+                "AVAILABLE",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "27B",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "27C",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "27D",
+            "seat-price": "1800 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "27E",
+            "seat-price": "1200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "27F",
+            "seat-price": "1300 USD",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "REAR_FACING_SEAT"
+            ]
+        }
+    ],
+    "28": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "28A",
+            "seat-price": "1300 USD",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "28B",
+            "seat-price": "1200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "28C",
+            "seat-price": "1800 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "28D",
+            "seat-price": "",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "28E",
+            "seat-price": "1200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "28F",
+            "seat-price": "1300 USD",
+            "seat-type": [
+                "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                "WINDOW",
+                "AVAILABLE",
+                "REAR_FACING_SEAT"
+            ]
+        }
+    ],
+    "29": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "29A",
+            "seat-price": "1300 USD",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "29B",
+            "seat-price": "1200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "29C",
+            "seat-price": "1800 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "29D",
+            "seat-price": "1800 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "29E",
+            "seat-price": "1200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "29F",
+            "seat-price": "1300 USD",
+            "seat-type": [
+                "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                "WINDOW",
+                "AVAILABLE",
+                "REAR_FACING_SEAT"
+            ]
+        }
+    ],
+    "30": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "30A",
+            "seat-price": "1300 USD",
+            "seat-type": [
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "RESTRICTED_RECLINE_SEAT",
+                "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                "RESTRICTED_SEAT_GENERAL",
+                "RESTRICTED",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "30B",
+            "seat-price": "1200 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "RESTRICTED_RECLINE_SEAT",
+                "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                "RESTRICTED_SEAT_GENERAL",
+                "RESTRICTED",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "30C",
+            "seat-price": "1800 USD",
+            "seat-type": [
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "RESTRICTED_RECLINE_SEAT",
+                "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                "RESTRICTED_SEAT_GENERAL",
+                "RESTRICTED",
+                "REAR_FACING_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "30D",
+            "seat-price": "1800 USD",
+            "seat-type": [
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "RESTRICTED_RECLINE_SEAT",
+                "OCCUPIED",
+                "REAR_FACING_SEAT",
+                "CREW_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "30E",
+            "seat-price": "1200 USD",
+            "seat-type": [
+                "RESTRICTED_RECLINE_SEAT",
+                "OCCUPIED",
+                "REAR_FACING_SEAT",
+                "CREW_SEAT"
+            ]
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "30F",
+            "seat-price": "1300 USD",
+            "seat-type": [
+                "WINDOW",
+                "RESTRICTED_RECLINE_SEAT",
+                "OCCUPIED",
+                "REAR_FACING_SEAT",
+                "CREW_SEAT"
+            ]
+        }
+    ],
+    "31": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "31A",
+            "seat-price": "1300 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "31B",
+            "seat-price": "1200 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "31C",
+            "seat-price": "1800 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "31D",
+            "seat-price": "1800 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "31E",
+            "seat-price": "1200 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "31F",
+            "seat-price": "1300 USD",
+            "seat-type": ""
+        }
+    ],
+    "32": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "32A",
+            "seat-price": "1300 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "32B",
+            "seat-price": "1200 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "32C",
+            "seat-price": "1800 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "32D",
+            "seat-price": "1800 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "32E",
+            "seat-price": "1200 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "32F",
+            "seat-price": "1300 USD",
+            "seat-type": ""
+        }
+    ],
+    "34": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "34A",
+            "seat-price": "1300 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "34B",
+            "seat-price": "1200 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "34C",
+            "seat-price": "1800 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "34D",
+            "seat-price": "1800 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "34E",
+            "seat-price": "1200 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "34F",
+            "seat-price": "1300 USD",
+            "seat-type": ""
+        }
+    ],
+    "35": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "35A",
+            "seat-price": "1300 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "35B",
+            "seat-price": "1200 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "35C",
+            "seat-price": "1800 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "35D",
+            "seat-price": "1800 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "35E",
+            "seat-price": "1200 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "35F",
+            "seat-price": "1300 USD",
+            "seat-type": ""
+        }
+    ],
+    "36": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "36A",
+            "seat-price": "1300 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "36B",
+            "seat-price": "1200 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "36C",
+            "seat-price": "1800 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "36D",
+            "seat-price": "1800 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "36E",
+            "seat-price": "1200 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "36F",
+            "seat-price": "1300 USD",
+            "seat-type": ""
+        }
+    ],
+    "37": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "37A",
+            "seat-price": "1300 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "37B",
+            "seat-price": "1200 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "37C",
+            "seat-price": "1800 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "37D",
+            "seat-price": "1800 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "37E",
+            "seat-price": "1200 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "37F",
+            "seat-price": "1300 USD",
+            "seat-type": ""
+        }
+    ],
+    "38": [
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "38A",
+            "seat-price": "1300 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "38B",
+            "seat-price": "1200 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "38C",
+            "seat-price": "1800 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "38D",
+            "seat-price": "1800 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "38E",
+            "seat-price": "1200 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "38F",
+            "seat-price": "1300 USD",
+            "seat-type": ""
+        }
+    ],
+    "39": [
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "39A",
+            "seat-price": "",
+            "seat-type": ""
+        },
+        {
+            "availability": "true",
+            "cabin-class": "Economy",
+            "seat-id": "39B",
+            "seat-price": "1200 USD",
+            "seat-type": ""
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "39C",
+            "seat-price": "",
+            "seat-type": ""
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "39D",
+            "seat-price": "",
+            "seat-type": ""
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "39E",
+            "seat-price": "",
+            "seat-type": ""
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "39F",
+            "seat-price": "",
+            "seat-type": ""
+        }
+    ],
+    "7": [
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "7A",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                "SEAT_IN_A_QUIET_ZONE",
+                "WINDOW",
+                "AVAILABLE"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "7B",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "AVAILABLE"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "7C",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "7D",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "7E",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "7F",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        }
+    ],
+    "8": [
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "8A",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "8B",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "8C",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "8D",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "8E",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "AVAILABLE"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "8F",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                "SEAT_IN_A_QUIET_ZONE",
+                "WINDOW",
+                "AVAILABLE"
+            ]
+        }
+    ],
+    "9": [
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "9A",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT",
+                "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+                "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "9B",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "AVAILABLE",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "9C",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD",
+                "SEAT_NOT_ALLOWED_FOR_INFANT"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "9D",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "AVAILABLE",
+                "AISLE_SEAT",
+                "SEAT_NOT_SUITABLE_FOR_CHILD"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "9E",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "AVAILABLE"
+            ]
+        },
+        {
+            "availability": "false",
+            "cabin-class": "Economy",
+            "seat-id": "9F",
+            "seat-price": "",
+            "seat-type": [
+                "SEAT_IN_A_QUIET_ZONE",
+                "WINDOW",
+                "AVAILABLE",
+                "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+                "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+            ]
+        }
+    ]
+}
