@@ -18,5 +18,5 @@ Write a python script that parses the XML seatmap files included in this folder 
 	- Availability
 
 ## Technologies used
-> Python
-> Python Element Tree module
+- Python
+- Python Element Tree module
